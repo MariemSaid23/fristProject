@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Document</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
+    <link rel="stylesheet" href="./addTocart.css">
+    <link rel="stylesheet" href="cart.css">
+</head>
+
+<body>
+    <!-- start Nav -->
+    <nav class="navbar" id="navbar">
+        <div class="logo">
+            <h4>the Nav</h4>
+
+        </div>
+        <ul class="nav-links">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="About.html">About</a></li>
+            <li><a href="index2.html">ContactAs</a></li>
+            <li class="cart">
+                <a href="cart.html">
+                    <i class="fas fa-shopping-cart"></i> Cart
+                    <span id="cartcount">0</span>
+                </a>
+            </li>
+        </ul>
+
+
+
+        <div class="burgar">
+
+            <div class="line1"></div>
+            <div class="line2"></div>
+            <div class="line3"></div>
+
+        </div>
+    </nav>
+    <!-- end nav -->
+    <!-- start category -->
+    <div class="container">
+
+        <div class="row" id="productsContainer"></div>
+    </div>
+
+    <table class="cartTab cart_table">
+        <thead>
+            <tr>
+                <th>Items</th>
+
+            </tr>
+        </thead>
+        <tbody class="listCart">
+ 
+        </tbody>
+    </table> <!-- /cartTab -->
+    <!-- <div class="cartTab">
+ 
+
+    </div> -->
+
+    <div class="container w-25" id="cartSection">
+        <h2 class="text-center">Shopping Cart</h2>
+        <ul id="cartItems"></ul>
+        <p id="totalPrice">Total: $0.00</p>
+    </div>
+
+
+    <!-- end category -->
+    <script src="cart.js"></script>
+</body>
+
+</html>

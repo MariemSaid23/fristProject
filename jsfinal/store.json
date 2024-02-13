@@ -1,0 +1,306 @@
+{
+    "products":[
+        {
+            
+                "id": 1, 
+                "name": "iphone 14 pro Max", 
+                "price":"1200" ,
+                "category" : "mobiles" ,
+                "description" : "Designed for iPhone 14 Pro Max case 6.7-Inch(2022), has precise cutouts for speakers, charging ports, audio ports, and buttons." ,
+                "image" : "../images/mobiles/1.jpg"
+                
+            
+        },
+        { 
+            "id": 2, 
+            "name": "iphone 13", 
+            "price": "1600" ,
+            "category" : "mobiles" ,
+            "description" : "Designed for iPhone 13 case 6.7-Inch(2022), has precise cutouts for speakers, charging ports, audio ports, and buttons." ,
+            "image" : "../images/mobiles/2.jpg"
+            
+        },
+        { 
+            "id": 3, 
+            "name": "iphone 14 pro", 
+            "price": "1200" ,
+            "category" : "mobiles" ,
+            "description" : "Silicon Mobile Magic Case Microfiber Lining with 3D Candy Shapes For Apple iphone 14 Pro Max 6.7 Inch (Biscuit in Black)" ,
+            "image" : "../images/mobiles/3.jpg"
+            
+        },
+        { 
+            "id": 4, 
+            "name": "OPPO Reno10", 
+            "price": "1100" ,
+            "category" : "mobiles" ,
+            "description" : "OPPO Reno10 5G Mobile Phone 8GB RAM 256GB Storage 4600mAh Battery 32MP Selfie Camera 6.7 inch - Ice Blue - Official Warranty" ,
+            "image" : "../images/mobiles/4.jpg"
+            
+        },{ 
+            "id": 5, 
+            "name": "Samsung Galaxy S23 Ultra", 
+            "price": "1300" ,
+            "category" : "mobiles" ,
+            "description" : "Samsung Galaxy S23 Ultra, 12GB, Phantom Black, Mobile Phone, Dual SIM, Android Smartphone, 1 Year Manufacturer Warranty" ,
+            "image" : "../images/mobiles/5.jpg"
+            
+        },
+        { 
+            "id": 6, 
+            "name": "Galaxy S24 Ultra", 
+            "price": "1000" ,
+            "category" : "mobiles" ,
+            "description" : "Samsung Galaxy S24 Ultra 5G 6.8 inches, Samsung S24 Ultra Translucent Frosted Back Case, Anti-Shock, Anti-Scratch Matte Case, Black" ,
+            "image" : "../images/mobiles/6.jpg"
+            
+        },{ 
+            "id": 7, 
+            "name": "iphone 11", 
+            "price": "1900" ,
+            "category" : "mobiles" ,
+            "description" : "Apple iPhone 11 with FaceTime - 128GB, 4GB RAM, 4G LTE, White, Single SIM & E-SIM" ,
+            "image" : "../images/mobiles/7.jpg"
+            
+        },
+        { 
+            "id": 8, 
+            "name": "Samsung Galaxy S23", 
+            "price": "1700" ,
+            "category" : "mobiles" ,
+            "description" : "Samsung Galaxy S23 FE 6.4 inch, Slim Flexible Soft TPU Shockproof Phone Cover with Matte Finish (green)" ,
+            "image" : "../images/mobiles/8.jpg"
+            
+        },
+        { 
+            "id": 9, 
+            "name": "Fit Me Matte", 
+            "price": 285 ,
+            "category" : "makeup" ,
+            "description" : "Maybelline New York Fit Me Matte + Poreless – 112 Soft Beige" ,
+            "image" : "../images/makeup/1.jpg"
+            
+        },
+        { 
+            "id": 10, 
+            "name": "Fit Me Powder", 
+            "price": 250 ,
+            "category" : "makeup" ,
+            "description" : "Maybelline New York Fit Me Powder 110 Fair Ivory" ,
+            "image" : "../images/makeup/2.jpg"
+            
+        },
+        { 
+            "id": 11, 
+            "name": "Concealer", 
+            "price": 318 ,
+            "category" : "makeup" ,
+            "description" : "Maybelline New York Fit Me Matte + Poreless – 112 Soft Beige" ,
+            "image" : "../images/makeup/3.jpg"
+            
+        },
+        { 
+            "id": 12, 
+            "name": "Concealer", 
+            "price": 899 ,
+            "category" : "makeup" ,
+            "description" : "NYX PROFESSIONAL MAKEUP Can't Stop Won't Stop Contour Concealer, 24h Full Coverage Matte Finish - Golden" ,
+            "image" : "../images/makeup/4.jpg"
+            
+        },
+        { 
+            "id": 13, 
+            "name": "mascara", 
+            "price": 220 ,
+            "category" : "makeup" ,
+            "description" : "Essencelash princess sculpted volume mascara" ,
+            "image" : "../images/makeup/5.jpg"
+            
+        },
+        { 
+            "id": 14, 
+            "name": "Fit Me Fresh", 
+            "price": 244 ,
+            "category" : "makeup" ,
+            "description" : "Maybelline New York, Fit Me Fresh Tint SPF 50 with Brightening Vitamin C, 06" ,
+            "image" : "../images/makeup/6.jpg"
+            
+        },
+        { 
+            "id": 15, 
+            "name": "Lip Liners", 
+            "price": 244 ,
+            "category" : "makeup" ,
+            "description" : "Maybelline New York Sensational Color Drama Lip Liners - 2.5 g" ,
+            "image" : "../images/makeup/7.jpg"
+            
+        }
+        ,
+        { 
+            "id": 16, 
+            "name": "Lipstick", 
+            "price": 580 ,
+            "category" : "makeup" ,
+            "description" : "Maybelline New York Superstay Matte Ink Lipstick -75 Fighter" ,
+            "image" : "../images/makeup/8.jpg"
+            
+        },
+
+        { 
+            "id": 17, 
+            "name": "Bmw", 
+            "price": 1000000 ,
+            "category" : "cars" ,
+            "description" : "With the four-seat LX Ultra Luxury,the next luxury icon has been born." ,
+            "image" : "../images/cars/1.jpg"
+            
+        }, { 
+            "id": 18, 
+            "name": "Audi", 
+            "price": 1000000 ,
+            "category" : "cars" ,
+            "description" : "When superior on-road agilitycombines with off-road capability and confidence, a new world of      possibilities unfolds" ,
+            "image" : "../images/cars/2.jpg"
+            
+        },{ 
+            "id": 19, 
+            "name": "maserati", 
+            "price": 1000000 ,
+            "category" : "cars" ,
+            "description" : "When superior on-road agilitycombines with off-road capability and confidence, a new world of      possibilities unfolds" ,
+            "image" : "../images/cars/3.jpg"
+            
+        }
+        ,
+        { 
+            "id": 20, 
+            "name": "Toyota", 
+            "price": 10000010 ,
+            "category" : "cars" ,
+            "description" : "When superior on-road agilitycombines with off-road capability and confidence, a new world of      possibilities unfolds" ,
+            "image" : "../images/cars/4.jpg"
+            
+        },
+        { 
+            "id": 21, 
+            "name": "Honda", 
+            "price": 10000010 ,
+            "category" : "cars" ,
+            "description" : "When superior on-road agilitycombines with off-road capability and confidence, a new world of      possibilities unfolds" ,
+            "image" : "../images/cars/5.jpg"
+            
+        },
+        { 
+            "id": 22, 
+            "name": "Honda", 
+            "price": 10000010 ,
+            "category" : "cars" ,
+            "description" : "When superior on-road agilitycombines with off-road capability and confidence, a new world of      possibilities unfolds" ,
+            "image" : "../images/cars/6.jpg"
+            
+        }
+        ,
+        { 
+            "id": 23, 
+            "name": "Chevrolet", 
+            "price": 10000010 ,
+            "category" : "cars" ,
+            "description" : "Ford, Toyota, Chevrolet, Honda, and Nissan are the five most popular car brands in America;" ,
+            "image" : "../images/cars/7.jpg"
+            
+        }
+        ,
+        { 
+            "id": 24, 
+            "name": "Cadillac", 
+            "price": 100.00010 ,
+            "category" : "cars" ,
+            "description" : "Cadillac logo Cadillac Luxury Vehicles 1902-Present ·" ,
+            "image" : "../images/cars/8.jpg"
+            
+        }
+       
+        ,
+        { 
+            "id": 25, 
+            "name": "Hoodie", 
+            "price": 2.200 ,
+            "category" : "clothes" ,
+            "description" : "American Eagle Men Active 24/7 Hoodie" ,
+            "image" : "../images/clothes/1.jpg"
+            
+        }
+        ,
+        { 
+            "id": 26, 
+            "name": "Dress", 
+            "price": 700 ,
+            "category" : "clothes" ,
+            "description" : "Elsayaad Girls Sleevless Romper Nightgown" ,
+            "image" : "../images/clothes/2.jpg"
+            
+        }
+,
+
+        { 
+            "id": 27, 
+            "name": "sweatshirt", 
+            "price": 600 ,
+            "category" : "clothes" ,
+            "description" : "Elsayaad Girls Long Sleeve Shirt T-Shirt" ,
+            "image" : "../images/clothes/3.jpg"
+            
+        }
+     ,
+     { 
+            "id": 28, 
+            "name": "Hoodie", 
+            "price": 1000 ,
+            "category" : "clothes" ,
+            "description" : "Elsayaad Girls Long Sleeve Shirt T-Shirt" ,
+            "image" : "../images/clothes/4.jpg"
+            
+        }
+        ,
+        { 
+            "id": 29, 
+            "name": "Jacket", 
+            "price": 2.499 ,
+            "category" : "clothes" ,
+            "description" : "KAZARY Mens (JAK/24607) Gabarden Zipper Gabarden Jacket Capicho" ,
+            "image" : "../images/clothes/5.jpg"
+            
+        }
+        ,
+
+        { 
+            "id": 30, 
+            "name": "Crew-Neck", 
+            "price": 1.100 ,
+            "category" : "clothes" ,
+            "description" : "American Eagle Women Soft & Sexy Crew-Neck Tee" ,
+            "image" : "../images/clothes/6.jpg"
+            
+        }
+        ,
+        { 
+            "id": 31, 
+            "name": "sweatshirt", 
+            "price": 2.299 ,
+            "category" : "clothes" ,
+            "description" : "American Eagle Women Soft & Sexy Crew-Neck Tee" ,
+            "image" : "../images/clothes/7.jpg"
+            
+        }
+        ,
+        { 
+            "id": 32, 
+            "name": "Jacket", 
+            "price": 2.299 ,
+            "category" : "clothes" ,
+            "description" : "American Eagle Women Soft & Sexy Crew-Neck Tee" ,
+            "image" : "../images/clothes/8.jpg"
+            
+        }
+ ]
+}

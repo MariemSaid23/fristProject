@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Website</title>
+    <!-- Add Font Awesome CSS link -->
+    <link rel="stylesheet" href="style2.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+</head>
+<body>
+      <!-- start Nav -->
+      <nav  class="navbar" id="navbar">
+        <div class="logo">
+            <h4>the Nav</h4>
+
+        </div>
+        <ul class="nav-links">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="About.html">About</a></li>
+            <li><a href="index2.html">ContactAs</a></li>
+
+        </ul>
+        <div class="burgar">
+
+            <div class="line1"></div>
+            <div class="line2"></div>
+            <div class="line3"></div>
+
+        </div>
+     </nav>
+     <!-- end nav -->
+     <!-- start form -->
+     <div class="container">
+        <form id="contactForm" onsubmit="validateForm(event)">
+            <label for="fullName">Full Name:</label>
+            <input type="text" id="fullName" name="fullName" required>
+    
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+    
+            <label for="phone">Phone:</label>
+            <input type="tel" id="phone" name="phone" required>
+    
+            <label for="password">Password:</label>
+            <input type="password" id="password" name="password" required>
+    
+            <label for="confirmPassword">Confirm Password:</label>
+            <input type="password" id="confirmPassword" name="confirmPassword" required>
+    
+            <button type="submit">Contact Us</button>
+        </form>
+     </div>
+     <!-- end form -->
+     <!-- start footer -->
+     <footer>
+        <div class="footer-content">
+            <p>TO Know More About US Visit Our Sites </p>
+            <p>Company Contact Information</p>
+            <!-- Social Media Icons -->
+            <div class="social-icons">
+                <a href="#" target="_blank"><i class="fab fa-facebook"></i></a>
+                <a href="#" target="_blank"><i class="fab fa-twitter"></i></a>
+                <a href="#" target="_blank"><i class="fab fa-instagram"></i></a>
+                <!-- Add more social media icons as needed -->
+            </div>
+        </div>
+    </footer>
+    <!-- end footer -->
+    <button id="back-to-top" onclick="scrollToTop()"><i class="fas fa-chevron-up"></i></button>
+
+     <script src="home.js"></script>
+</body>
+</html>
